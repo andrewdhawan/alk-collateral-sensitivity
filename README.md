@@ -10,3 +10,7 @@ Files included:
 [3] test_lc_data.xlsx: Input file for R script. This must be modified to contain the desired drug concentration/survival values for fitting. 
 
 [4] count_cycles.py: This code counts the number of cycles of a particular length from directed graph, defined by an adjacency matrix G (defined in the script).
+
+[5] make_heatmap_upload.R: R code to generate heatmaps, as presented within the manuscript. Takes in input values directly from the excel file called "heatmap_example.xlsx".
+
+[6] heatmap_example.xlsx: Example of input data to R script to generate heatmap.
