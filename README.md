@@ -8,3 +8,5 @@ Files included:
 [2] get_EC50_Hill_coeff_upload.R: Contains the code used to fit the survival curves to a Hill function to obtain EC50 and Hill coefficient. 
 
 [3] test_lc_data.xlsx: Input file for R script. This must be modified to contain the desired drug concentration/survival values for fitting. 
+
+[4] count_cycles.py: This code counts the number of cycles of a particular length from directed graph, defined by an adjacency matrix G (defined in the script).
