@@ -14,3 +14,5 @@ Files included:
 [5] make_heatmap_upload.R: R code to generate heatmaps, as presented within the manuscript. Takes in input values directly from the excel file called "heatmap_example.xlsx".
 
 [6] heatmap_example.xlsx: Example of input data to R script to generate heatmap.
+
+<a href="https://zenodo.org/badge/latestdoi/24318/andrewdhawan/alk-collateral-sensitivity"><img src="https://zenodo.org/badge/24318/andrewdhawan/alk-collateral-sensitivity.svg" alt="10.5281/zenodo.61933"></a>
