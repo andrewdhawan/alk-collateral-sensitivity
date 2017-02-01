@@ -3,7 +3,7 @@ Repository for the R code and experimental data for the paper "Collateral sensit
 
 Files included:
 
-[1] final_expt_data.xlsx: File contains survival curves for all collateral sensitivity assays considered, presented as average survival followed by standard deviation. For each survival curve, contains EC50 and Hill coefficient from fitting procedure as well as assoicated confidence intervals, where computable. Sheet name indicates the drug-resistant cell line for which the data on that sheet is presented, and the drug being treated is listed adjacent to the survival table. 
+[1] final_expt_data.xlsx: File contains survival curves for all collateral sensitivity assays considered, presented as average survival followed by standard deviation. For each survival curve, contains EC50 and Hill coefficient from fitting procedure as well as assoicated confidence intervals, where computable. Sheet name indicates the drug-resistant cell line for which the data on that sheet is presented, and the drug being treated is listed adjacent to the survival table. Updated 1st Feb 2017.
 
 [2] get_EC50_Hill_coeff_upload.R: Contains the code used to fit the survival curves to a Hill function to obtain EC50 and Hill coefficient. 
 
@@ -14,5 +14,7 @@ Files included:
 [5] make_heatmap_upload.R: R code to generate heatmaps, as presented within the manuscript. Takes in input values directly from the excel file called "heatmap_example.xlsx".
 
 [6] heatmap_example.xlsx: Example of input data to R script to generate heatmap.
+
+[7] data_wt_cells_drug_treatment.xlsx: Excel file containing EC50 values and confidence intervals for wild-type H3122 cells under the drugs considered. Added to give measure of day-to-day variability in EC50 data.
 
 <a href="https://zenodo.org/badge/latestdoi/24318/andrewdhawan/alk-collateral-sensitivity"><img src="https://zenodo.org/badge/24318/andrewdhawan/alk-collateral-sensitivity.svg" alt="10.5281/zenodo.61933"></a>
