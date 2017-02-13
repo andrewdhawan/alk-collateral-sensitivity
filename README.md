@@ -17,4 +17,6 @@ Files included:
 
 [7] data_wt_cells_drug_treatment.xlsx: Excel file containing EC50 values and confidence intervals for wild-type H3122 cells under the drugs considered. Added to give measure of day-to-day variability in EC50 data.
 
+[8] AlecR.py, CeritR.py, CrizR.py, LorlR.py: These are Python scripts to recreate the figures showing the time series of the EC50 values during the relaxation experiments, with associated confidence intervals.
+
 <a href="https://zenodo.org/badge/latestdoi/24318/andrewdhawan/alk-collateral-sensitivity"><img src="https://zenodo.org/badge/24318/andrewdhawan/alk-collateral-sensitivity.svg" alt="10.5281/zenodo.61933"></a>
